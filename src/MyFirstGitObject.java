@@ -1,4 +1,6 @@
 
-public class MyFirstGitObject {
+public class MyFirstGitObject 
+{
+	private String object;
 
 }
